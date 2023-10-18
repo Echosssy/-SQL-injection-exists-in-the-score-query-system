@@ -16,6 +16,7 @@ SQLmap getshell
 ![image](https://github.com/Echosssy/-SQL-injection-exists-in-the-score-query-system/assets/114723111/740b3283-5ea8-4c96-aedf-ccffae7b4c46)
 
 For example:
+
 Like http://119.3.182.189:18081
 
 LIke http://146.56.236.132:8008/
